@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> I feel the fire when our shadows intertwine
+> A beautiful miracle, your hand melting into mine
+> Every whisper paints the midnight in a glowing hue
+> There is nothing I would rather do than fall into you
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
